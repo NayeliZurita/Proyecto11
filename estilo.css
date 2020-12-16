@@ -1,0 +1,51 @@
+body{
+   background:rgba(0,0,0,0.6);
+}
+header h2 {
+    text-align: center;   
+    color: #cff;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+header div{
+    display:flex;
+    justify-content: space-around;
+}
+h1{
+    text-align: center; 
+    font-size: 80px;
+    color: #f93;
+    font-family: fantasy;
+}
+
+h3{
+    font-size: 45px;
+    text-align: center; 
+    color: #f93;
+    font-family: fantasy; 
+}
+.texto {
+    width: 85%;
+    max-width: 850px;
+    font-size: 20px;
+    margin:0 auto;
+    color: #ffab66;
+    font-family: fantasy; 
+}
+.imagen{
+    display: inline-block;
+    width: 40%;
+    vertical-align: middle;
+}
+.imagen img{
+    width: 50%;
+    border: 5px ridge #ff8d66;
+}
+.tex{
+    display: inline-block;
+    text-align: center;
+    font-size: 35px;
+    width: 40%;
+    color: #ffab66;
+}
